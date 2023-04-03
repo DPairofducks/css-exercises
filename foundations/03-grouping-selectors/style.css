@@ -5,9 +5,10 @@
 }
 
 .button-black {
-
+    background-color: black;
+    color: white;
 }
 
 .button-yellow {
-
+    background-color: yellow;
 }
